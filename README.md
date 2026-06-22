@@ -56,8 +56,6 @@ An AI-powered interview preparation platform designed to conduct role-specific m
 ### AI Medicine Identifier
 A computer vision and OCR-based application that identifies medicines using image analysis and assists users through symptom-based filtering.
 
-### Jan Sahayak App
-A civic issue reporting platform that enables users to report public issues such as potholes, garbage, streetlight failures, and water wastage through AI-assisted complaint generation.
 
 ---
 
